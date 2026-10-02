@@ -1,0 +1,35 @@
+{
+  "high": [
+    "cheatengine",
+    "cheat engine",
+    "kdmapper",
+    "extremeinjector",
+    "spoofer",
+    "kmbox",
+    "pcileech",
+    "triggerbot",
+    "aimbot"
+  ],
+  "medium": [
+    "injector",
+    "x64dbg",
+    "ollydbg",
+    "processhacker",
+    "autohotkey",
+    "macro",
+    "ccleaner",
+    "bleachbit",
+    "eraser"
+  ],
+  "hardware": [
+    "kmbox",
+    "fpga",
+    "xilinx",
+    "screamer",
+    "squirrel",
+    "pcileech",
+    "leetdma",
+    "captain dma",
+    "makcu"
+  ]
+}
