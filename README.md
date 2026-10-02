@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/banner.png" alt="GameCheck – consent-based anti-cheat forensic scanner" width="100%">
+  <img src="images/banner.png" alt="GameCheck – consent-based anti-cheat forensic scanner" width="100%">
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ suspicious runs on the player's PC. GameCheck therefore checks the **hardware la
 ## Features
 
 <p align="center">
-  <img src="docs/images/features.png" alt="What GameCheck analyses" width="100%">
+  <img src="images/features.png" alt="What GameCheck analyses" width="100%">
 </p>
 
 - **Processes & DLLs** – running processes, loaded modules, and active `.py` / `.ahk` / `.lua` scripts.
@@ -87,7 +87,7 @@ suspicious runs on the player's PC. GameCheck therefore checks the **hardware la
 
 | 1 · Consent | 2 · Scan | 3 · Results |
 |:---:|:---:|:---:|
-| <img src="docs/images/ui-form.png" width="100%"> | <img src="docs/images/ui-scan.png" width="100%"> | <img src="docs/images/ui-results.png" width="100%"> |
+| <img src="images/ui-form.png" width="100%"> | <img src="images/ui-scan.png" width="100%"> | <img src="images/ui-results.png" width="100%"> |
 
 ## How it works
 
